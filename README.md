@@ -1,3 +1,16 @@
+# Devagram (Instagram Clone) - Backend
+
+Projeto desenvolvido no curso de Node.js da [Crowd Academy](https://academy.crowd.br.com/) em parceria com a [Devaria](https://devaria.com.br/)
+Apresentado pelo Rafael Thomazelli - [github](https://github.com/rafamazzucato)
+
+## Tecnologias
+
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
